@@ -1,0 +1,32 @@
+﻿
+
+.successimage {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.success-message {
+    position: fixed;
+    bottom: -100px; /* Initially hidden below the viewport */
+    left: 57%;
+    transform: translateX(-70%); /* Center horizontally */
+    text-align: center;
+    padding: 15px 20px;
+    font-style:italic;
+    color: navy;
+    font-weight: bold;
+    border-radius: 5px;
+    animation: slide-up 1s ease-in-out forwards; /* Apply the animation */
+    font-size:40px;
+}
+
+@keyframes slide-up {
+    0% {
+        bottom: -80px;
+    }
+
+    100% {
+        bottom: 30px; /* Final position */
+    }
+}

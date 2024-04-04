@@ -1,0 +1,198 @@
+﻿ 
+<div b-ifs4o4k5jz="">
+    <main b-ifs4o4k5jz="" role="main">
+
+ 
+ <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Clicker+Script&family=Courgette&family=Lumanosimo&family=Ms+Madi&family=Nunito:wght@600&family=Pacifico&family=Parisienne&family=Quicksand:wght@500&family=Raleway:wght@100;200&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Signika+Negative&family=Tektur:wght@400;500&display=swap" rel="stylesheet">
+
+ <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+        <div class="bg-image">
+            <img src="~/bgimg.jpg" alt="" width="100%">
+        </div>
+ <div class="container-fluid">
+    <!-- navbar -->
+    <nav class="navbar bg-dark navbar-expand-lg border-bottom border-body fixed-top" data-bs-theme="dark">
+        <div class="container-fluid">
+            <img src="~/scope-india-logo-bird.jpg" alt="Scope logo" width="60" height="50">
+            <a class="navbar-brand p-2 flex-grow-1 text-light" href="#"><b>SCOPE INDIA</b></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- collapse icon -->
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-outline-primary rounded"  href="Home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-outline-primary rounded" asp-controller="Home" asp-action="Contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                                <a class="nav-link btn btn-outline-primary rounded" asp-controller="Home" asp-action="Registration">Registration</a>
+                    </li>
+                    <li class="nav-item">
+                                <a class="nav-link btn btn-outline-primary rounded" asp-controller="Home" asp-action="About">About Us</a>
+                    </li>
+                </ul>
+                        <a class="btn btn-outline-primary me-3" asp-controller="Home" asp-action="Login"><b>LOGIN</b></a>
+            </div>
+        </div>
+    </nav>
+</div>
+<!-- carousel -->
+
+        <div class="container-fluid py-5 " style=" background-color: #1d557a;">
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col-8">
+            <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active" data-bs-interval="1000">
+                        <img src="~/img1.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img2.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img3.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img4.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img5.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img6.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img7.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img8.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                        <img src="~/img9.jpg" height="700px" width="100%" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+        <div class="col-2"></div>
+    </div>
+</div>
+
+<!-- call -->
+
+<div class="container">
+       <div class="d-flex">
+    <img src="~/pexels.jpg" alt="Scope India" class="image">
+    <div class="content">
+        <h1><b>SCOPE INDIA</b></h1>
+        <p>We are open 7 days 24 hrs to talk to you and listen to your queries.</p>
+        <p><b>GET A FREE CALL BACK</b></p>
+        <input type="text" name="name" id="name" placeholder="Enter your name" required><br>
+        <input type="number" name="phonenumber" id="phone" placeholder="Enter your phone no" required>
+        <button class="button" type="button" onclick="makeCall()">CALL ME</button>
+    </div>
+    </div>
+            <script>
+                function makeCall() {
+                    var phoneNumber = document.getElementById('phone').value;
+                    var phoneNumberWithoutSpaces = phoneNumber.replace(/\s/g, ''); 
+                    var telLink = 'tel:+' + phoneNumberWithoutSpaces;
+                    window.location.href = telLink;
+
+                }
+            </script>
+</div>
+
+
+<!-- paragraph section -->
+
+<div class="section_wrapper mcb-section-inner">
+    <div class="wrap mcb-wrap one valign-top clearfix">
+        <div class="mcb-wrap-inner">
+            <div class="column mcb-column one column_column">
+                <div class="column_attr clearfix align_center">
+
+                    <div class="text-center"><a class="footer_links" href="https://g.page/r/CXbW6SZGeJPfEAE" title="SCOPE INDIA Google Map Location to Trivandrum, Kerala" target="_blank"><img src="~/5star.png" class="star5"></a><p class="text-center">Google 4.9 * Rated Institute</p></div>
+
+                    <div class="text-center ag ">
+                        <h1>SCOPE INDIA, your career partner!</h1>
+                        <h2>One of the best Training Destination for Software, Networking and Cloud Computing courses in India</h2>
+                        <p>
+                            Software, Networking, and Cloud Professional Education Centre in Kerala from Suffix E Solutions with WORKING PROFESSIONALS
+                            oriented on-the-job TRAINING model. SCOPE INDIA provides courses for <strong>Software Programming</strong>
+                            in Python (Data Science | Artificial Intelligence | Machine Learning | Deep Learning), Java, PHP, .Net,
+                            <strong>Software Testing</strong> Manual and Automation,<strong> Cloud </strong> in AWS, Azure, <strong>
+                                Server Administration
+                            </strong> in MCSE, and RHCE, <strong>CCNA</strong>,<strong> Mobile App Development</strong>
+                            in Flutter, and, <strong>Digital Marketing</strong>. Training with 100% Trusted Job Based Internship Model.
+                            SCOPE INDIA has a Strong Placement Cell that provides jobs to 1000's of students every year. We assure you,
+                            you won't regret it after training from SCOPE INDIA!
+                        </p>
+                        <p>This is how SCOPE INDIA can support both newbies and experienced in the industry to upgrade their skills.</p>
+                    </div>
+                    <hr class="no_line" style="margin:0 auto 30px">
+                    <a class="btn" style="width: 100%;" asp-action="Studentdashboard"><span class="btn  button_label" style="width: 100%; background-color: #dfe9f5;">Courses</span></a><br>
+                    <a class="btn" style="width: 100%;" asp-action="Registration"><span class="btn btn-warning button_label" style="width: 100%">Register Now!</span></a><br>
+                    <a class="btn" style="width: 100%;" href="https://wa.me/+919745936073" target="_blank"><span class="btn btn-success button_label" style="width: 100%;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    
+<!-- footer section -->
+
+<div class="home d-flex justify-content-center align-items-center">
+    <div class="text-light" style="height: 650px;width: 1000px;">
+        <div style="text-align: center;" class="d-flex justify-content-between">
+            <div class="mt-5">
+                <span class="fs-1 fw-bold text-info">1000+</span><br>
+                <p>
+                    STUDENTS ARE <br>
+                    TRAINED EVERY YEAR
+                </p>
+            </div>
+            <div>
+                <span class="fs-1 fw-bold text-info">30+</span><br>
+                <p>COMPUTER COURSES</p>
+            </div>
+            <div class="mt-5">
+                <span class="fs-1 fw-bold text-info">95%</span><br>
+                <p>STUDENTS ARE GETTING <br>PLACED EVERY YEAR</p>
+            </div>
+        </div>
+        <div class="text-center">
+            <img src="~/snowpark-home.png" alt="" height="200px">
+        </div>
+        <div class="d-flex justify-content-center align-items-center mb-3">
+            <div class="text-center">
+                <img src="~/iso_iaflogo.jpg" alt="" width="400px">
+            </div>
+        </div>
+        <div><p style="color: rgba(255, 255, 255, 0.711);" class="text-center mt-2">An ISO 9001:2015 Certified Company</p></div>
+        <div><p style="color: rgba(255, 255, 255, 0.711);" class="text-center mt-5">All Rights Reserved to Suffix Solutions © 2007-2023</p></div>
+        <div class="d-flex justify-content-between mt-5">
+            <p>9835648642(TVM)</p>
+            <p>4693687654(TPK)</p>
+            <p>9735678326(EKM)</p>
+            <p>8965487352(NGL)</p>
+            <p>info@scopeindia.org</p>
+        </div>
+    </div>
+</div>
+</div>
+</main>
+
+

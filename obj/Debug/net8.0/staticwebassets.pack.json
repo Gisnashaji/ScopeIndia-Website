@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Scope.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Scope.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\5star.png",
+      "PackagePath": "staticwebassets\\5star.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\Wallpapers.jpg",
+      "PackagePath": "staticwebassets\\Wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\abhijith.jpg",
+      "PackagePath": "staticwebassets\\abhijith.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\abhijith.png",
+      "PackagePath": "staticwebassets\\abhijith.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\about.jpg",
+      "PackagePath": "staticwebassets\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\afia.jpg",
+      "PackagePath": "staticwebassets\\afia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\ajanya.jpg",
+      "PackagePath": "staticwebassets\\ajanya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\amrutha.png",
+      "PackagePath": "staticwebassets\\amrutha.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\anand.jpg",
+      "PackagePath": "staticwebassets\\anand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\anjana-raj.jpg",
+      "PackagePath": "staticwebassets\\anjana-raj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\anto.png",
+      "PackagePath": "staticwebassets\\anto.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\archana.png",
+      "PackagePath": "staticwebassets\\archana.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\arunlal.jpg",
+      "PackagePath": "staticwebassets\\arunlal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\asma.jpg",
+      "PackagePath": "staticwebassets\\asma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\athira.jpg",
+      "PackagePath": "staticwebassets\\athira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\bgimg.jpg",
+      "PackagePath": "staticwebassets\\bgimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\bharathi.jpg",
+      "PackagePath": "staticwebassets\\bharathi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\carolin.jpg",
+      "PackagePath": "staticwebassets\\carolin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\carusoelbg.jpg",
+      "PackagePath": "staticwebassets\\carusoelbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\contact.jpg",
+      "PackagePath": "staticwebassets\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\contactaddress.jpg",
+      "PackagePath": "staticwebassets\\contactaddress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\contactbg1.jpg",
+      "PackagePath": "staticwebassets\\contactbg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\contactphoto2.jpg",
+      "PackagePath": "staticwebassets\\contactphoto2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\Contact.css",
+      "PackagePath": "staticwebassets\\css\\Contact.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\GetCourseDetails.css",
+      "PackagePath": "staticwebassets\\css\\GetCourseDetails.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\Logout.css",
+      "PackagePath": "staticwebassets\\css\\Logout.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\Registration.css",
+      "PackagePath": "staticwebassets\\css\\Registration.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\Review.css",
+      "PackagePath": "staticwebassets\\css\\Review.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\Studentdashboard.css",
+      "PackagePath": "staticwebassets\\css\\Studentdashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\Success.css",
+      "PackagePath": "staticwebassets\\css\\Success.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\done.jpg",
+      "PackagePath": "staticwebassets\\done.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\download.jpg",
+      "PackagePath": "staticwebassets\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\editprodile.jpg",
+      "PackagePath": "staticwebassets\\editprodile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\gohul.jpg",
+      "PackagePath": "staticwebassets\\gohul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\gokul.jpg",
+      "PackagePath": "staticwebassets\\gokul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\images.jpg",
+      "PackagePath": "staticwebassets\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img1.jpg",
+      "PackagePath": "staticwebassets\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img2.jpg",
+      "PackagePath": "staticwebassets\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img3.jpg",
+      "PackagePath": "staticwebassets\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img4.jpg",
+      "PackagePath": "staticwebassets\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img5.jpg",
+      "PackagePath": "staticwebassets\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img6.jpg",
+      "PackagePath": "staticwebassets\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img7.jpg",
+      "PackagePath": "staticwebassets\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img8.jpg",
+      "PackagePath": "staticwebassets\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\img9.jpg",
+      "PackagePath": "staticwebassets\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\iso_iaflogo.jpg",
+      "PackagePath": "staticwebassets\\iso_iaflogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\joel.jpg",
+      "PackagePath": "staticwebassets\\joel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\js\\DnamicCity.js",
+      "PackagePath": "staticwebassets\\js\\DnamicCity.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\js\\Review.js",
+      "PackagePath": "staticwebassets\\js\\Review.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\keyboard.jpg",
+      "PackagePath": "staticwebassets\\keyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\kiran.jpg",
+      "PackagePath": "staticwebassets\\kiran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\laal.png",
+      "PackagePath": "staticwebassets\\laal.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lavin.jpg",
+      "PackagePath": "staticwebassets\\lavin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\libin.png",
+      "PackagePath": "staticwebassets\\libin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\loginphoto.jpg",
+      "PackagePath": "staticwebassets\\loginphoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\nihan.png",
+      "PackagePath": "staticwebassets\\nihan.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\password.jpg",
+      "PackagePath": "staticwebassets\\password.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\pexels.jpg",
+      "PackagePath": "staticwebassets\\pexels.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\photo-370799.jpeg",
+      "PackagePath": "staticwebassets\\photo-370799.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\plainbackground.jpg",
+      "PackagePath": "staticwebassets\\plainbackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\priya-francis.jpg",
+      "PackagePath": "staticwebassets\\priya-francis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\rahul.png",
+      "PackagePath": "staticwebassets\\rahul.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\register.jpg",
+      "PackagePath": "staticwebassets\\register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\sanjana.png",
+      "PackagePath": "staticwebassets\\sanjana.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\scope-india-full-stack-offer-jan20slip2024.jpg",
+      "PackagePath": "staticwebassets\\scope-india-full-stack-offer-jan20slip2024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\scope-india-logo-bird.jpg",
+      "PackagePath": "staticwebassets\\scope-india-logo-bird.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\shebin.png",
+      "PackagePath": "staticwebassets\\shebin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\snowpark-home.png",
+      "PackagePath": "staticwebassets\\snowpark-home.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\sreehari.png",
+      "PackagePath": "staticwebassets\\sreehari.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\success.jpg",
+      "PackagePath": "staticwebassets\\success.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\texture.jpg",
+      "PackagePath": "staticwebassets\\texture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Scope\\Scope\\wwwroot\\ungaro281260.jpg",
+      "PackagePath": "staticwebassets\\ungaro281260.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Scope.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Scope.props",
+      "PackagePath": "build\\Scope.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Scope.props",
+      "PackagePath": "buildMultiTargeting\\Scope.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Scope.props",
+      "PackagePath": "buildTransitive\\Scope.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

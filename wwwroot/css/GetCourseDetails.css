@@ -1,0 +1,104 @@
+﻿body {
+    background-image: url('../wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: rgb(93, 93, 186);*/
+}
+
+.page {
+   text-align:center;
+}
+
+
+
+.page h1 {
+    margin-top:30px;
+    color: white;
+    font-size: 55px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom:30px;
+}
+.border-color-violet {
+    margin-top:30px;
+   
+    /*background: rgba(76, 175, 80, 0.1);*/
+    margin-bottom:40px;
+    margin:auto;
+    
+    
+}
+.table {
+    margin-top:30px;
+    width: 100%;
+    margin-bottom: 30px;
+    
+    border-spacing: 0;
+    
+    border-radius: 5px;
+}
+.language-row {
+    display: flex;
+    margin-top:30px;
+}
+.language-box {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.language {
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+    text-align: center;
+    color: #1d557a;
+}
+.lang {
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 10px;
+    box-shadow: inset #ddd;
+    max-width: 400px; 
+    margin: auto;
+    
+}
+.batch-box {
+    margin-top:40px;
+    
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    max-width: 700px; /* Adjust the width as needed */
+    margin: auto;
+    font-size:23px;
+    
+}
+
+.page h4 {
+   margin-top:30px;
+    margin-bottom: 30px;
+    
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+.star5 {
+    width: 400px;
+}
+

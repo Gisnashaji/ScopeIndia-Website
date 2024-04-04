@@ -1,0 +1,116 @@
+﻿
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /* background-color: #06396b ; */
+    /*background: url(https://st4.depositphotos.com/13349494/22302/i/450/depositphotos_223022490-stock-photo-empty-white-wooden-surface-bright.jpg);*/
+    background-image: url('../ungaro281260.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first_col {
+    background-color: white;
+    height: 560px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: relative;
+    width: 550px;
+    left: 155px;
+    top: 171px;
+    border-radius: 20px;
+}
+
+
+
+
+.img-fluid {
+    border-radius: 30px;
+    margin-left: 149px;
+}
+
+.icon {
+    color: #2a56af;
+}
+
+.row-last {
+    width: 100%;
+    position: relative;
+    /* left: 350px; */
+    height: 300px;
+    /* top: 10px; */
+    padding-bottom: 100px;
+    /* margin-top: 500px;  */
+    display: inline;
+    color:navy;
+}
+
+.ab {
+    backdrop-filter: blur(30px);
+    height: 30vh;
+}
+
+p, h6 {
+    font-size: 16px;
+    color: #0e0303;
+}
+
+.btn-primary {
+    background-color: rgb(29, 113, 196);
+    border: #f8f9fa;
+}
+
+    .btn-primary:hover {
+        background-color: rgb(67, 67, 191);
+    }
+
+.form-control {
+    height: 40px;
+    background: #fff;
+    font-size: 14px;
+    border-radius: 2px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid #555;
+}
+
+    .form-control[type=text]:focus {
+        border: 1px solid #555;
+    }
+
+@media only screen and (max-width: 600px) {
+    .first_col {
+        position: initial;
+        left: 0;
+    }
+
+    .sec_col {
+        order: 1;
+    }
+
+    .row-last {
+        left: 0;
+        width: 100%;
+        height: 500px;
+        top: 0;
+    }
+}
